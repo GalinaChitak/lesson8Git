@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
         test();
+        test2();
     }
 
     private static void test() {
@@ -19,6 +20,9 @@ public class Main {
         }
 
         System.out.println("Всего " + coincidences + " совпадений");
+
+    }
+    private static void test2(){
 
     }
 
